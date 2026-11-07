@@ -113,6 +113,7 @@ def main():
     hit = {"A": 0, "B": 0, "C": 0}
     losses_p = {"A": [], "B": [], "C": []}
     missed = []
+    a_rows = []   # (original correlation, is_mixture, verdict of the inverted copy)
     for f, v in passed:
         x, sr = load_stereo(f)
         L, R = x[:, 0], x[:, 1]
@@ -125,6 +126,7 @@ def main():
         write_pcm16(dst, np.stack([L, -R], axis=1), sr)
         pv = check_file(dst)
         tried["A"] += 1
+        a_rows.append((v.correlation, f.stem == "mixture", pv.level))
         ok = pv.level == "FAIL"
         hit["A"] += ok
         losses_p["A"].append(pv.loss_db)
@@ -160,6 +162,19 @@ def main():
     for k in "ABC":
         med = f"{float(np.median([x for x in losses_p[k] if x is not None])):.1f} dB" if losses_p[k] else "n/a"
         lines.append(f"| {names[k]} | {tried[k]} | {rate(hit[k], tried[k])} | {med} |")
+    if a_rows:
+        lines += ["", "### A, split by how correlated the channels were before inversion", "",
+                  "Inverting a channel pair with correlation c loses about -10*log10((1-c)/2) dB, so FAIL (10 dB) needs c of about 0.8 or more",
+                  "and WARN (6 dB) needs c of about 0.5 or more. Below that an inversion cannot be seen by downmix loss.", "",
+                  "| copies | n | WARN or FAIL | FAIL only |", "|---|---|---|---|"]
+        groups = [("all", lambda c, m: True), ("original correlation >= 0.5", lambda c, m: c is not None and c >= 0.5),
+                  ("original correlation < 0.5", lambda c, m: c is None or c < 0.5),
+                  ("mixtures only", lambda c, m: m), ("stems only", lambda c, m: not m)]
+        for name, sel in groups:
+            sub = [lv for c, m, lv in a_rows if sel(c, m)]
+            fl = sum(lv in ("WARN", "FAIL") for lv in sub)
+            fa = sum(lv == "FAIL" for lv in sub)
+            lines.append(f"| {name} | {len(sub)} | {rate(fl, len(sub))} | {rate(fa, len(sub))} |")
     lines += ["", "Ranges are 95% Wilson intervals. They assume independent files; stems and mixtures of the same song are not independent,",
               "so the real uncertainty is wider.", f"Missed copies are listed in `missed_planted.csv` ({len(missed)} rows)."]
     with open(a.out / "missed_planted.csv", "w", newline="", encoding="utf-8") as fh:
