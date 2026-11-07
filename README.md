@@ -50,8 +50,7 @@ correlated the channels were; the v2 plan corrected it and was run once on new s
 
 On the first (`test`) run: 0 of 199 originals flagged; all-copies detection 180 of 194 = 93% flagged, 104 of 194 = 54% FAIL; band 31 of 38 = 82%.
 
-The one flagged original (`train`: a vocals stem with correlation -0.79 and 9.7 dB downmix loss, mostly in the bass) has not been
-confirmed by listening.
+The one flagged original (train: a vocals stem, correlation -0.79) measures 9.7 dB quieter in a mono mix (bass about 19.5 dB quieter); not yet checked by ear.
 
 Ranges are 95% Wilson intervals. Stems and mixtures of the same song are not independent, so the real uncertainty is wider.
 The planted copies are made by one method; real polarity mistakes may differ. Only MUSDB18-HQ was used.
