@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "phasecheck"
+dynamic = ["version"]
+description = "Find stereo audio files whose channels cancel each other when mixed down to mono (out-of-phase or inverted channels)."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.9"
+authors = [{ name = "Boobalan Arjunan" }]
+dependencies = ["numpy>=1.23", "scipy>=1.9", "soundfile>=0.12"]
+classifiers = ["Development Status :: 3 - Alpha", "License :: OSI Approved :: MIT License", "Topic :: Multimedia :: Sound/Audio :: Analysis"]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[project.scripts]
+phasecheck = "phasecheck.cli:main"
+
+[tool.setuptools.dynamic]
+version = { attr = "phasecheck._version.__version__" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
