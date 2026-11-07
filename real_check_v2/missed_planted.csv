@@ -1,0 +1,62 @@
+copy,kind,verdict,downmix_loss_db,worst_band,worst_band_loss_db
+drums__A_inverted.wav,A,WARN,8.7,20-250 Hz,16.8
+drums__A_inverted.wav,A,PASS,4.2,20-250 Hz,4.6
+drums__A_inverted.wav,A,WARN,9.8,250 Hz-2 kHz,11.0
+other__A_inverted.wav,A,WARN,6.7,250 Hz-2 kHz,6.8
+drums__A_inverted.wav,A,WARN,9.7,20-250 Hz,11.0
+other__A_inverted.wav,A,WARN,8.2,250 Hz-2 kHz,9.0
+other__A_inverted.wav,A,WARN,7.7,2-8 kHz,8.7
+other__A_inverted.wav,A,WARN,9.4,20-250 Hz,11.9
+mixture__A_inverted.wav,A,WARN,8.4,20-250 Hz,10.3
+mixture__B_band.wav,B,PASS,0.4,2-8 kHz,9.8
+other__A_inverted.wav,A,PASS,5.0,250 Hz-2 kHz,5.9
+other__A_inverted.wav,A,WARN,6.3,2-8 kHz,8.9
+other__A_inverted.wav,A,PASS,2.6,2-8 kHz,2.9
+other__A_inverted.wav,A,PASS,6.0,2-8 kHz,8.2
+vocals__B_band.wav,B,PASS,0.5,2-8 kHz,9.3
+mixture__A_inverted.wav,A,WARN,6.1,20-250 Hz,7.0
+other__A_inverted.wav,A,WARN,6.8,20-250 Hz,6.9
+other__A_inverted.wav,A,PASS,4.2,2-8 kHz,6.3
+other__A_inverted.wav,A,PASS,5.1,2-8 kHz,7.6
+other__A_inverted.wav,A,WARN,9.1,20-250 Hz,15.1
+vocals__A_inverted.wav,A,WARN,8.2,2-8 kHz,11.2
+other__A_inverted.wav,A,WARN,6.1,250 Hz-2 kHz,6.6
+vocals__A_inverted.wav,A,PASS,3.4,20-250 Hz,3.7
+vocals__B_band.wav,B,PASS,0.3,2-8 kHz,9.1
+mixture__A_inverted.wav,A,WARN,6.3,2-8 kHz,7.2
+vocals__B_band.wav,B,PASS,0.5,2-8 kHz,9.6
+mixture__A_inverted.wav,A,WARN,6.2,20-250 Hz,8.2
+drums__A_inverted.wav,A,WARN,8.5,20-250 Hz,13.7
+mixture__A_inverted.wav,A,WARN,8.3,20-250 Hz,13.1
+other__A_inverted.wav,A,PASS,4.8,20-250 Hz,5.2
+mixture__B_band.wav,B,PASS,0.6,2-8 kHz,9.1
+other__A_inverted.wav,A,WARN,6.2,20-250 Hz,6.5
+drums__A_inverted.wav,A,WARN,7.2,250 Hz-2 kHz,7.8
+mixture__B_band.wav,B,PASS,0.5,2-8 kHz,9.6
+mixture__A_inverted.wav,A,WARN,9.6,20-250 Hz,12.2
+other__A_inverted.wav,A,WARN,8.0,2-8 kHz,10.8
+other__B_band.wav,B,PASS,0.9,2-8 kHz,9.9
+other__A_inverted.wav,A,WARN,7.7,20-250 Hz,10.0
+mixture__A_inverted.wav,A,WARN,9.3,20-250 Hz,21.6
+other__A_inverted.wav,A,WARN,6.8,2-8 kHz,8.5
+other__A_inverted.wav,A,WARN,7.5,2-8 kHz,8.7
+mixture__A_inverted.wav,A,WARN,7.6,20-250 Hz,8.6
+vocals__A_inverted.wav,A,WARN,6.4,20-250 Hz,9.5
+other__A_inverted.wav,A,PASS,4.0,250 Hz-2 kHz,4.2
+other__A_inverted.wav,A,WARN,8.5,20-250 Hz,8.9
+drums__B_band.wav,B,PASS,0.1,250 Hz-2 kHz,0.2
+mixture__A_inverted.wav,A,WARN,8.7,20-250 Hz,11.2
+mixture__A_inverted.wav,A,WARN,7.7,20-250 Hz,11.1
+other__A_inverted.wav,A,PASS,4.8,250 Hz-2 kHz,6.8
+drums__A_inverted.wav,A,WARN,8.5,20-250 Hz,12.3
+other__A_inverted.wav,A,WARN,5.9,20-250 Hz,11.0
+other__A_inverted.wav,A,PASS,5.0,20-250 Hz,7.6
+other__A_inverted.wav,A,WARN,7.8,250 Hz-2 kHz,8.4
+drums__A_inverted.wav,A,WARN,9.5,20-250 Hz,14.6
+mixture__A_inverted.wav,A,WARN,8.3,250 Hz-2 kHz,9.4
+other__A_inverted.wav,A,WARN,9.3,250 Hz-2 kHz,9.4
+vocals__A_inverted.wav,A,WARN,8.6,20-250 Hz,10.4
+other__B_band.wav,B,PASS,0.4,2-8 kHz,8.8
+other__A_inverted.wav,A,WARN,6.4,2-8 kHz,8.7
+bass__A_inverted.wav,A,WARN,8.3,20-250 Hz,8.4
+other__A_inverted.wav,A,WARN,8.5,2-8 kHz,9.5

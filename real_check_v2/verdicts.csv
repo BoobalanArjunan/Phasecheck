@@ -1,0 +1,201 @@
+file,sample_rate,channels,verdict,reason,downmix_loss_db,correlation,worst_band,worst_band_loss_db,dual_mono,seconds_analysed
+Swinging Steaks - Lost My Way/vocals.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.91); nothing cancels,0.2,0.906,250 Hz-2 kHz,0.2,False,70.3
+Traffic Experiment - Once More (With Feeling)/vocals.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.85); nothing cancels,0.3,0.85,250 Hz-2 kHz,0.4,False,70.7
+Drumtracks - Ghost Bitch/bass.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,0.0,1.0,250 Hz-2 kHz,0.0,True,93.5
+The Scarlet Brand - Les Fleurs Du Mal/drums.wav,44100,2,PASS,a mono mix loses 0.6 dB (correlation 0.73); nothing cancels,0.6,0.734,above 8 kHz,2.7,False,113.2
+Secret Mountains - High Horse/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.99); nothing cancels,0.0,0.989,20-250 Hz,0.0,False,110.4
+Actions - One Minute Smile/drums.wav,44100,2,PASS,a mono mix loses 2.1 dB (correlation 0.23); nothing cancels,2.1,0.235,250 Hz-2 kHz,3.4,False,116.1
+James May - Dont Let Go/drums.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.79); nothing cancels,0.5,0.792,2-8 kHz,0.9,False,73.5
+Atlantis Bound - It Was My Fault For Waiting/drums.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.90); nothing cancels,0.2,0.898,2-8 kHz,1.5,False,97.8
+Remember December - C U Next Time/drums.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.81); nothing cancels,0.4,0.811,above 8 kHz,1.7,False,110.3
+Clara Berry And Wooldog - Waltz For My Victims/other.wav,44100,2,PASS,a mono mix loses 1.0 dB (correlation 0.58); nothing cancels,1.0,0.576,20-250 Hz,1.1,False,119.5
+"Jokers, Jacks & Kings - Sea Of Leaves/drums.wav",44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.79); nothing cancels,0.5,0.787,above 8 kHz,2.6,False,102.1
+Music Delta - Rock/drums.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.99); nothing cancels,0.0,0.99,2-8 kHz,0.1,False,12.7
+Creepoid - OldTree/other.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.79); nothing cancels,0.7,0.785,20-250 Hz,1.0,False,120.0
+Fergessen - The Wind/other.wav,44100,2,PASS,a mono mix loses 0.8 dB (correlation 0.67); nothing cancels,0.8,0.674,20-250 Hz,1.0,False,119.8
+Young Griffo - Facade/other.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.89); nothing cancels,0.3,0.889,2-8 kHz,0.3,False,119.0
+Music Delta - Hendrix/drums.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.99); nothing cancels,0.0,0.995,250 Hz-2 kHz,0.1,False,17.1
+Music Delta - Rockabilly/other.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.80); nothing cancels,0.5,0.803,2-8 kHz,0.6,False,25.9
+Actions - Devil's Words/vocals.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.94); nothing cancels,0.1,0.944,250 Hz-2 kHz,0.1,False,110.0
+Remember December - C U Next Time/mixture.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.82); nothing cancels,0.4,0.824,above 8 kHz,1.4,False,120.0
+ANiMAL - Rockshow/mixture.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.92); nothing cancels,0.2,0.915,above 8 kHz,0.9,False,119.4
+Fergessen - The Wind/bass.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,0.0,1.0,250 Hz-2 kHz,0.0,True,102.0
+Music Delta - Disco/bass.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,0.0,1.0,250 Hz-2 kHz,0.0,True,100.8
+Leaf - Wicked/mixture.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.71); nothing cancels,0.7,0.712,2-8 kHz,1.7,False,119.8
+Alexander Ross - Goodbye Bolero/vocals.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,-0.0,1.0,20-250 Hz,-0.0,True,46.6
+Music Delta - 80s Rock/vocals.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 1.00); nothing cancels,0.0,0.996,250 Hz-2 kHz,0.0,False,31.3
+Music Delta - Country1/bass.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,0.0,1.0,250 Hz-2 kHz,0.0,True,24.0
+Wall Of Death - Femme/drums.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.90); nothing cancels,0.2,0.902,above 8 kHz,1.8,False,119.0
+The Districts - Vermont/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 1.00); nothing cancels,0.0,0.999,20-250 Hz,0.0,False,102.5
+Giselle - Moss/vocals.wav,44100,2,WARN,a mono mix is 9.7 dB quieter than the channels (correlation -0.79); partly out of phase,9.7,-0.786,20-250 Hz,18.7,False,107.7
+Clara Berry And Wooldog - Stella/bass.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,0.0,1.0,250 Hz-2 kHz,0.0,True,111.1
+James May - All Souls Moon/vocals.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.91); nothing cancels,0.2,0.912,250 Hz-2 kHz,0.3,False,84.1
+James May - All Souls Moon/drums.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.91); nothing cancels,0.2,0.911,250 Hz-2 kHz,0.3,False,24.4
+Strand Of Oaks - Spacestation/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 1.00); nothing cancels,0.0,0.999,20-250 Hz,0.0,False,100.1
+Auctioneer - Our Future Faces/mixture.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.86); nothing cancels,0.3,0.864,250 Hz-2 kHz,0.5,False,120.0
+Titanium - Haunted Age/mixture.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.88); nothing cancels,0.3,0.883,above 8 kHz,0.5,False,120.0
+The So So Glos - Emergency/drums.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.90); nothing cancels,0.2,0.899,250 Hz-2 kHz,0.3,False,106.2
+Swinging Steaks - Lost My Way/bass.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.95); nothing cancels,0.1,0.951,250 Hz-2 kHz,0.2,False,119.5
+Atlantis Bound - It Was My Fault For Waiting/other.wav,44100,2,PASS,a mono mix loses 1.6 dB (correlation 0.37); nothing cancels,1.6,0.369,20-250 Hz,2.1,False,119.3
+Spike Mullings - Mike's Sulking/other.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.92); nothing cancels,0.2,0.925,250 Hz-2 kHz,0.2,False,120.0
+Auctioneer - Our Future Faces/vocals.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.87); nothing cancels,0.3,0.873,250 Hz-2 kHz,0.3,False,80.1
+Young Griffo - Facade/mixture.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.91); nothing cancels,0.2,0.909,2-8 kHz,0.3,False,119.8
+Clara Berry And Wooldog - Air Traffic/other.wav,44100,2,PASS,a mono mix loses 1.1 dB (correlation 0.54); nothing cancels,1.1,0.535,20-250 Hz,1.9,False,120.0
+Hop Along - Sister Cities/other.wav,44100,2,PASS,a mono mix loses 3.5 dB (correlation -0.11); nothing cancels,3.5,-0.106,20-250 Hz,4.1,False,120.0
+The Scarlet Brand - Les Fleurs Du Mal/other.wav,44100,2,PASS,a mono mix loses 1.3 dB (correlation 0.51); nothing cancels,1.3,0.514,20-250 Hz,1.6,False,120.0
+Music Delta - Grunge/mixture.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.97); nothing cancels,0.1,0.967,2-8 kHz,0.2,False,40.5
+Dreamers Of The Ghetto - Heavy Love/mixture.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.83); nothing cancels,0.5,0.833,2-8 kHz,0.7,False,120.0
+Steven Clark - Bounty/vocals.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.87); nothing cancels,0.3,0.871,2-8 kHz,0.4,False,94.0
+James May - On The Line/bass.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.90); nothing cancels,0.2,0.901,20-250 Hz,0.2,False,116.8
+Music Delta - Beatles/mixture.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.99); nothing cancels,0.0,0.989,2-8 kHz,0.1,False,35.8
+Matthew Entwistle - Dont You Ever/drums.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.89); nothing cancels,0.2,0.894,above 8 kHz,1.7,False,17.0
+Creepoid - OldTree/drums.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.89); nothing cancels,0.3,0.888,above 8 kHz,0.9,False,101.1
+Actions - One Minute Smile/mixture.wav,44100,2,PASS,a mono mix loses 1.2 dB (correlation 0.51); nothing cancels,1.2,0.51,above 8 kHz,1.5,False,119.7
+North To Alaska - All The Same/other.wav,44100,2,PASS,a mono mix loses 1.0 dB (correlation 0.58); nothing cancels,1.0,0.582,250 Hz-2 kHz,1.0,False,118.2
+Black Bloc - If You Want Success/vocals.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 1.00); nothing cancels,0.0,0.995,above 8 kHz,0.0,False,25.5
+Drumtracks - Ghost Bitch/vocals.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.90); nothing cancels,0.2,0.905,250 Hz-2 kHz,0.2,False,108.4
+Hezekiah Jones - Borrowed Heart/mixture.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.82); nothing cancels,0.4,0.825,2-8 kHz,0.7,False,120.0
+Clara Berry And Wooldog - Waltz For My Victims/vocals.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.98); nothing cancels,0.1,0.977,20-250 Hz,0.1,False,60.5
+Swinging Steaks - Lost My Way/mixture.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.83); nothing cancels,0.4,0.829,above 8 kHz,1.8,False,120.0
+AvaLuna - Waterduct/mixture.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.83); nothing cancels,0.4,0.834,250 Hz-2 kHz,0.7,False,112.3
+Music Delta - Punk/mixture.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.96); nothing cancels,0.1,0.957,250 Hz-2 kHz,0.2,False,28.7
+Young Griffo - Facade/bass.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.90); nothing cancels,0.3,0.898,20-250 Hz,0.3,False,108.7
+Dreamers Of The Ghetto - Heavy Love/vocals.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.88); nothing cancels,0.3,0.881,250 Hz-2 kHz,0.3,False,92.1
+AvaLuna - Waterduct/other.wav,44100,2,PASS,a mono mix loses 2.0 dB (correlation 0.25); nothing cancels,2.0,0.248,250 Hz-2 kHz,2.3,False,111.8
+Music Delta - 80s Rock/bass.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,0.0,1.0,20-250 Hz,0.0,True,34.9
+A Classic Education - NightOwl/drums.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.87); nothing cancels,0.3,0.871,250 Hz-2 kHz,0.8,False,106.3
+Spike Mullings - Mike's Sulking/bass.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,-0.0,1.0,20-250 Hz,-0.0,True,119.7
+The So So Glos - Emergency/other.wav,44100,2,PASS,a mono mix loses 1.6 dB (correlation 0.38); nothing cancels,1.6,0.379,20-250 Hz,2.5,False,114.3
+Actions - One Minute Smile/other.wav,44100,2,PASS,a mono mix loses 0.6 dB (correlation 0.76); nothing cancels,0.6,0.76,250 Hz-2 kHz,0.8,False,117.4
+Titanium - Haunted Age/drums.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.88); nothing cancels,0.3,0.882,above 8 kHz,0.6,False,120.0
+Faces On Film - Waiting For Ga/vocals.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.70); nothing cancels,0.7,0.696,20-250 Hz,1.1,False,116.5
+Phre The Eon - Everybody's Falling Apart/bass.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.97); nothing cancels,0.1,0.967,250 Hz-2 kHz,0.1,False,115.1
+Giselle - Moss/bass.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,-0.0,1.0,20-250 Hz,-0.0,True,30.1
+Grants - PunchDrunk/other.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.86); nothing cancels,0.3,0.864,250 Hz-2 kHz,1.3,False,46.1
+Sweet Lights - You Let Me Down/other.wav,44100,2,PASS,a mono mix loses 1.2 dB (correlation 0.50); nothing cancels,1.2,0.505,20-250 Hz,2.1,False,116.9
+Meaxic - Take A Step/vocals.wav,44100,2,PASS,a mono mix loses 2.6 dB (correlation 0.09); nothing cancels,2.6,0.087,2-8 kHz,2.8,False,85.7
+Patrick Talbot - Set Me Free/vocals.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.89); nothing cancels,0.2,0.894,2-8 kHz,0.5,False,42.0
+Night Panther - Fire/vocals.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.95); nothing cancels,0.1,0.95,250 Hz-2 kHz,0.1,False,65.8
+Music Delta - Country2/drums.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 1.00); nothing cancels,0.0,0.996,250 Hz-2 kHz,0.1,False,17.0
+Faces On Film - Waiting For Ga/mixture.wav,44100,2,PASS,a mono mix loses 1.2 dB (correlation 0.53); nothing cancels,1.2,0.531,250 Hz-2 kHz,1.2,False,120.0
+Helado Negro - Mitad Del Mundo/vocals.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.97); nothing cancels,0.1,0.969,250 Hz-2 kHz,0.1,False,96.2
+Music Delta - Grunge/drums.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 1.00); nothing cancels,0.0,0.998,2-8 kHz,0.1,False,36.0
+Clara Berry And Wooldog - Waltz For My Victims/bass.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.96); nothing cancels,0.1,0.962,20-250 Hz,0.1,False,119.5
+Music Delta - Rockabilly/mixture.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.95); nothing cancels,0.1,0.948,2-8 kHz,0.3,False,25.9
+ANiMAL - Rockshow/bass.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.91); nothing cancels,0.2,0.907,250 Hz-2 kHz,0.2,False,111.5
+Johnny Lokke - Whisper To A Scream/bass.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.89); nothing cancels,0.2,0.889,20-250 Hz,0.2,False,117.1
+Phre The Eon - Everybody's Falling Apart/vocals.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.87); nothing cancels,0.3,0.867,250 Hz-2 kHz,0.3,False,53.0
+Triviul - Angelsaint/vocals.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.89); nothing cancels,0.3,0.888,2-8 kHz,0.3,False,91.6
+Music Delta - Beatles/vocals.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 1.00); nothing cancels,0.0,1.0,250 Hz-2 kHz,0.0,False,30.5
+Spike Mullings - Mike's Sulking/drums.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.96); nothing cancels,0.1,0.956,2-8 kHz,0.7,False,108.9
+Hop Along - Sister Cities/mixture.wav,44100,2,PASS,a mono mix loses 1.2 dB (correlation 0.52); nothing cancels,1.2,0.517,2-8 kHz,2.1,False,120.0
+The Long Wait - Back Home To Blue/vocals.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.94); nothing cancels,0.1,0.938,250 Hz-2 kHz,0.1,False,83.2
+Lushlife - Toynbee Suite/drums.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.72); nothing cancels,0.7,0.717,250 Hz-2 kHz,1.1,False,100.8
+Music Delta - Country1/vocals.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.98); nothing cancels,0.0,0.985,250 Hz-2 kHz,0.0,False,25.3
+Skelpolu - Human Mistakes/mixture.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.85); nothing cancels,0.3,0.847,250 Hz-2 kHz,1.4,False,120.0
+Young Griffo - Pennies/drums.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.91); nothing cancels,0.2,0.905,above 8 kHz,1.7,False,116.8
+Meaxic - Take A Step/mixture.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.70); nothing cancels,0.7,0.705,250 Hz-2 kHz,1.9,False,119.8
+Invisible Familiars - Disturbing Wildlife/mixture.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.98); nothing cancels,0.1,0.976,2-8 kHz,0.1,False,119.6
+Clara Berry And Wooldog - Stella/other.wav,44100,2,PASS,a mono mix loses 1.7 dB (correlation 0.35); nothing cancels,1.7,0.346,250 Hz-2 kHz,1.9,False,117.3
+Fergessen - Back From The Start/mixture.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.81); nothing cancels,0.4,0.806,250 Hz-2 kHz,0.7,False,120.0
+Actions - Devil's Words/mixture.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.81); nothing cancels,0.4,0.814,2-8 kHz,0.9,False,119.7
+Skelpolu - Together Alone/other.wav,44100,2,PASS,a mono mix loses 1.2 dB (correlation 0.52); nothing cancels,1.2,0.517,2-8 kHz,1.8,False,120.0
+The Wrong'Uns - Rothko/vocals.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.80); nothing cancels,0.5,0.8,250 Hz-2 kHz,0.5,False,83.7
+Grants - PunchDrunk/mixture.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.96); nothing cancels,0.1,0.959,250 Hz-2 kHz,0.3,False,113.0
+Hollow Ground - Left Blind/vocals.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,0.0,1.0,2-8 kHz,0.0,True,54.7
+Music Delta - Country2/mixture.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.94); nothing cancels,0.1,0.937,250 Hz-2 kHz,0.3,False,17.4
+ANiMAL - Easy Tiger/vocals.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.96); nothing cancels,0.1,0.96,2-8 kHz,0.3,False,108.0
+Faces On Film - Waiting For Ga/drums.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.86); nothing cancels,0.3,0.858,250 Hz-2 kHz,1.4,False,75.1
+James May - Dont Let Go/other.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.82); nothing cancels,0.4,0.818,250 Hz-2 kHz,0.7,False,119.1
+Music Delta - Rockabilly/drums.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.99); nothing cancels,0.0,0.995,2-8 kHz,0.1,False,25.1
+Grants - PunchDrunk/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.99); nothing cancels,0.0,0.992,20-250 Hz,0.0,False,83.2
+Leaf - Come Around/mixture.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.91); nothing cancels,0.2,0.914,2-8 kHz,0.7,False,120.0
+Music Delta - Reggae/drums.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.99); nothing cancels,0.0,0.994,2-8 kHz,0.1,False,14.3
+Drumtracks - Ghost Bitch/drums.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.90); nothing cancels,0.2,0.903,2-8 kHz,2.5,False,71.1
+Remember December - C U Next Time/vocals.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.83); nothing cancels,0.4,0.832,250 Hz-2 kHz,0.4,False,106.6
+Music Delta - Country1/other.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.93); nothing cancels,0.2,0.926,2-8 kHz,0.3,False,34.7
+Skelpolu - Human Mistakes/bass.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.92); nothing cancels,0.2,0.92,20-250 Hz,0.2,False,119.8
+Flags - 54/mixture.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.86); nothing cancels,0.4,0.861,20-250 Hz,0.4,False,119.8
+Fergessen - Nos Palpitants/drums.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.82); nothing cancels,0.4,0.825,2-8 kHz,1.4,False,86.7
+Titanium - Haunted Age/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.98); nothing cancels,0.0,0.981,250 Hz-2 kHz,0.1,False,104.4
+Leaf - Come Around/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.99); nothing cancels,0.0,0.988,20-250 Hz,0.0,False,104.7
+Dreamers Of The Ghetto - Heavy Love/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 1.00); nothing cancels,0.0,1.0,20-250 Hz,0.0,False,59.8
+James May - If You Say/drums.wav,44100,2,PASS,a mono mix loses 0.9 dB (correlation 0.62); nothing cancels,0.9,0.624,20-250 Hz,0.9,False,51.0
+Young Griffo - Pennies/mixture.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.91); nothing cancels,0.2,0.915,2-8 kHz,0.4,False,120.0
+The So So Glos - Emergency/mixture.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.78); nothing cancels,0.5,0.779,250 Hz-2 kHz,0.9,False,118.5
+Meaxic - You Listen/bass.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,0.0,1.0,20-250 Hz,0.0,True,117.0
+Alexander Ross - Goodbye Bolero/other.wav,44100,2,PASS,a mono mix loses 0.8 dB (correlation 0.68); nothing cancels,0.8,0.684,20-250 Hz,1.0,False,120.0
+James May - If You Say/bass.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.83); nothing cancels,0.4,0.826,20-250 Hz,0.4,False,101.2
+AvaLuna - Waterduct/vocals.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.95); nothing cancels,0.1,0.954,250 Hz-2 kHz,0.1,False,82.6
+Aimee Norwich - Child/other.wav,44100,2,PASS,a mono mix loses 0.8 dB (correlation 0.66); nothing cancels,0.8,0.66,2-8 kHz,1.0,False,120.0
+Music Delta - Disco/mixture.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.98); nothing cancels,0.1,0.975,2-8 kHz,0.1,False,119.5
+A Classic Education - NightOwl/mixture.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.77); nothing cancels,0.5,0.769,250 Hz-2 kHz,1.6,False,118.7
+Tim Taler - Stalker/vocals.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.97); nothing cancels,0.1,0.973,20-250 Hz,0.1,False,63.7
+Jay Menon - Through My Eyes/vocals.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.91); nothing cancels,0.2,0.915,250 Hz-2 kHz,0.2,False,71.7
+Angela Thomas Wade - Milk Cow Blues/other.wav,44100,2,PASS,a mono mix loses 1.0 dB (correlation 0.59); nothing cancels,1.0,0.587,20-250 Hz,1.8,False,120.0
+Young Griffo - Pennies/vocals.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,-0.0,1.0,20-250 Hz,-0.0,True,87.7
+Skelpolu - Together Alone/bass.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.85); nothing cancels,0.4,0.853,250 Hz-2 kHz,0.4,False,109.5
+Wall Of Death - Femme/bass.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.87); nothing cancels,0.3,0.867,250 Hz-2 kHz,0.4,False,116.8
+Creepoid - OldTree/mixture.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.87); nothing cancels,0.3,0.875,above 8 kHz,0.8,False,120.0
+Matthew Entwistle - Dont You Ever/vocals.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,0.0,1.0,2-8 kHz,0.0,True,65.8
+Voelund - Comfort Lives In Belief/mixture.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.86); nothing cancels,0.3,0.859,2-8 kHz,0.5,False,120.0
+Chris Durban - Celebrate/other.wav,44100,2,PASS,a mono mix loses 0.9 dB (correlation 0.64); nothing cancels,0.9,0.644,250 Hz-2 kHz,1.1,False,111.1
+Hezekiah Jones - Borrowed Heart/drums.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.91); nothing cancels,0.2,0.905,2-8 kHz,1.1,False,103.7
+James May - Dont Let Go/mixture.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.87); nothing cancels,0.3,0.867,250 Hz-2 kHz,0.4,False,120.0
+Angela Thomas Wade - Milk Cow Blues/mixture.wav,44100,2,PASS,a mono mix loses 0.8 dB (correlation 0.65); nothing cancels,0.8,0.654,250 Hz-2 kHz,0.9,False,120.0
+James May - On The Line/drums.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.91); nothing cancels,0.2,0.912,250 Hz-2 kHz,0.7,False,113.5
+ANiMAL - Easy Tiger/bass.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.93); nothing cancels,0.1,0.935,250 Hz-2 kHz,0.5,False,89.5
+A Classic Education - NightOwl/vocals.wav,44100,2,PASS,a mono mix loses 1.1 dB (correlation 0.56); nothing cancels,1.1,0.56,250 Hz-2 kHz,1.2,False,76.5
+Johnny Lokke - Promises & Lies/drums.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.91); nothing cancels,0.2,0.91,2-8 kHz,1.1,False,119.4
+Aimee Norwich - Child/vocals.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.93); nothing cancels,0.1,0.934,2-8 kHz,0.3,False,99.0
+Patrick Talbot - Set Me Free/drums.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.89); nothing cancels,0.2,0.893,2-8 kHz,1.8,False,45.0
+Celestial Shore - Die For Us/other.wav,44100,2,PASS,a mono mix loses 2.2 dB (correlation 0.21); nothing cancels,2.2,0.213,2-8 kHz,3.0,False,120.0
+Music Delta - Britpop/other.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.72); nothing cancels,0.7,0.717,2-8 kHz,1.3,False,35.7
+Lushlife - Toynbee Suite/vocals.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 1.00); nothing cancels,0.0,0.999,20-250 Hz,0.0,False,89.3
+AvaLuna - Waterduct/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.99); nothing cancels,0.0,0.991,20-250 Hz,0.0,False,68.3
+Phre The Eon - Everybody's Falling Apart/drums.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.97); nothing cancels,0.1,0.972,250 Hz-2 kHz,0.2,False,105.8
+Creepoid - OldTree/bass.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,0.0,1.0,250 Hz-2 kHz,0.0,True,119.7
+BigTroubles - Phantom/bass.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,0.0,1.0,20-250 Hz,0.0,True,120.0
+ANiMAL - Clinic A/bass.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.87); nothing cancels,0.3,0.873,250 Hz-2 kHz,1.2,False,90.6
+Patrick Talbot - Set Me Free/mixture.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.86); nothing cancels,0.3,0.862,2-8 kHz,0.9,False,118.1
+Clara Berry And Wooldog - Stella/drums.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.94); nothing cancels,0.1,0.94,250 Hz-2 kHz,0.7,False,61.7
+Dark Ride - Burning Bridges/drums.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.93); nothing cancels,0.2,0.928,above 8 kHz,3.7,False,111.7
+James May - If You Say/other.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.91); nothing cancels,0.2,0.908,2-8 kHz,0.7,False,118.7
+Patrick Talbot - A Reason To Leave/bass.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.88); nothing cancels,0.3,0.875,250 Hz-2 kHz,0.3,False,102.1
+Voelund - Comfort Lives In Belief/drums.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.95); nothing cancels,0.1,0.947,above 8 kHz,0.5,False,108.3
+Bill Chudziak - Children Of No-one/mixture.wav,44100,2,PASS,a mono mix loses 0.6 dB (correlation 0.73); nothing cancels,0.6,0.731,2-8 kHz,1.1,False,119.9
+Traffic Experiment - Sirens/mixture.wav,44100,2,PASS,a mono mix loses 0.8 dB (correlation 0.66); nothing cancels,0.8,0.658,2-8 kHz,1.3,False,120.0
+Young Griffo - Blood To Bone/drums.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.92); nothing cancels,0.2,0.921,2-8 kHz,1.2,False,103.3
+Actions - South Of The Water/bass.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,0.0,1.0,20-250 Hz,0.0,True,112.5
+Hop Along - Sister Cities/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 1.00); nothing cancels,0.0,1.0,250 Hz-2 kHz,0.0,False,119.3
+Actions - One Minute Smile/bass.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,0.0,1.0,20-250 Hz,0.0,True,110.3
+Young Griffo - Facade/drums.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.90); nothing cancels,0.2,0.9,2-8 kHz,0.5,False,104.8
+Meaxic - Take A Step/other.wav,44100,2,PASS,a mono mix loses 1.7 dB (correlation 0.34); nothing cancels,1.7,0.343,20-250 Hz,2.9,False,119.0
+Music Delta - Beatles/bass.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,0.0,1.0,250 Hz-2 kHz,0.0,True,34.3
+Hollow Ground - Left Blind/bass.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.84); nothing cancels,0.4,0.843,20-250 Hz,0.4,False,109.7
+Angela Thomas Wade - Milk Cow Blues/vocals.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 1.00); nothing cancels,0.0,0.995,2-8 kHz,0.1,False,58.6
+Invisible Familiars - Disturbing Wildlife/vocals.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.97); nothing cancels,0.1,0.969,20-250 Hz,0.2,False,78.2
+Black Bloc - If You Want Success/bass.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.91); nothing cancels,0.2,0.908,20-250 Hz,0.2,False,44.7
+Hop Along - Sister Cities/drums.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.72); nothing cancels,0.7,0.715,2-8 kHz,1.7,False,119.8
+Helado Negro - Mitad Del Mundo/other.wav,44100,2,PASS,a mono mix loses 1.3 dB (correlation 0.49); nothing cancels,1.3,0.49,250 Hz-2 kHz,1.4,False,114.8
+James May - On The Line/other.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.81); nothing cancels,0.4,0.811,2-8 kHz,1.4,False,120.0
+A Classic Education - NightOwl/other.wav,44100,2,PASS,a mono mix loses 1.7 dB (correlation 0.37); nothing cancels,1.7,0.374,250 Hz-2 kHz,1.8,False,118.9
+Leaf - Come Around/other.wav,44100,2,PASS,a mono mix loses 0.8 dB (correlation 0.67); nothing cancels,0.8,0.673,2-8 kHz,1.2,False,120.0
+Actions - Devil's Words/drums.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.78); nothing cancels,0.5,0.779,2-8 kHz,3.3,False,109.0
+Port St Willow - Stay Even/mixture.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.71); nothing cancels,0.7,0.711,20-250 Hz,1.2,False,119.5
+Patrick Talbot - Set Me Free/other.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.80); nothing cancels,0.5,0.798,2-8 kHz,1.0,False,119.6
+Triviul - Dorothy/vocals.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.81); nothing cancels,0.4,0.81,250 Hz-2 kHz,0.5,False,115.4
+Young Griffo - Pennies/bass.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.89); nothing cancels,0.2,0.893,20-250 Hz,0.2,False,110.1
+ANiMAL - Easy Tiger/mixture.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.86); nothing cancels,0.3,0.86,above 8 kHz,1.6,False,118.3
+Creepoid - OldTree/vocals.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.83); nothing cancels,0.4,0.831,250 Hz-2 kHz,0.5,False,58.8
+Leaf - Come Around/drums.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.92); nothing cancels,0.2,0.924,above 8 kHz,0.3,False,83.8
+Black Bloc - If You Want Success/other.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.84); nothing cancels,0.4,0.836,2-8 kHz,0.7,False,81.6
+Dreamers Of The Ghetto - Heavy Love/drums.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.97); nothing cancels,0.1,0.968,above 8 kHz,0.7,False,100.8
+ANiMAL - Clinic A/vocals.wav,44100,2,PASS,a mono mix loses 0.6 dB (correlation 0.73); nothing cancels,0.6,0.727,above 8 kHz,1.5,False,104.4
+Sweet Lights - You Let Me Down/bass.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,0.0,1.0,250 Hz-2 kHz,0.0,True,111.1
+Invisible Familiars - Disturbing Wildlife/other.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.91); nothing cancels,0.2,0.91,2-8 kHz,0.3,False,92.8
+Triviul - Dorothy/other.wav,44100,2,PASS,a mono mix loses 1.1 dB (correlation 0.54); nothing cancels,1.1,0.539,20-250 Hz,1.2,False,112.8
+Matthew Entwistle - Dont You Ever/bass.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.71); nothing cancels,0.7,0.706,250 Hz-2 kHz,1.3,False,35.4
+Traffic Experiment - Once More (With Feeling)/other.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.72); nothing cancels,0.7,0.716,250 Hz-2 kHz,0.8,False,120.0
+Faces On Film - Waiting For Ga/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 1.00); nothing cancels,0.0,0.998,20-250 Hz,0.0,False,97.6
+The Scarlet Brand - Les Fleurs Du Mal/vocals.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.90); nothing cancels,0.2,0.903,250 Hz-2 kHz,0.2,False,31.6
