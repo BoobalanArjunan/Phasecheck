@@ -37,3 +37,7 @@ htmlcov/
 
 # macOS
 .DS_Store
+
+# Evaluation output audio
+real_check/planted/
+

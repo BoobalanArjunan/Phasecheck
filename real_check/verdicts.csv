@@ -1,0 +1,201 @@
+file,sample_rate,channels,verdict,reason,downmix_loss_db,correlation,worst_band,worst_band_loss_db,dual_mono,seconds_analysed
+AM Contra - Heart Peripheral/drums.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.77); nothing cancels,0.5,0.772,2-8 kHz,2.0,False,106.8
+Secretariat - Over The Top/bass.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.91); nothing cancels,0.2,0.912,250 Hz-2 kHz,0.3,False,114.6
+Buitraker - Revo X/other.wav,44100,2,PASS,a mono mix loses 2.9 dB (correlation 0.03); nothing cancels,2.9,0.033,2-8 kHz,4.5,False,120.0
+Forkupines - Semantics/vocals.wav,44100,2,PASS,a mono mix loses 1.9 dB (correlation 0.30); nothing cancels,1.9,0.302,250 Hz-2 kHz,2.2,False,56.2
+Zeno - Signs/vocals.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.91); nothing cancels,0.2,0.908,2-8 kHz,0.5,False,84.1
+Cristina Vane - So Easy/drums.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.96); nothing cancels,0.1,0.959,2-8 kHz,1.9,False,101.7
+Signe Jakobsen - What Have You Done To Me/other.wav,44100,2,PASS,a mono mix loses 1.5 dB (correlation 0.41); nothing cancels,1.5,0.41,2-8 kHz,2.9,False,99.5
+Secretariat - Over The Top/vocals.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.96); nothing cancels,0.1,0.955,250 Hz-2 kHz,0.1,False,54.5
+Buitraker - Revo X/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.99); nothing cancels,0.0,0.988,20-250 Hz,0.0,False,118.9
+Carlos Gonzalez - A Place For Us/vocals.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.72); nothing cancels,0.7,0.719,250 Hz-2 kHz,0.7,False,85.8
+Detsky Sad - Walkie Talkie/vocals.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.85); nothing cancels,0.3,0.848,2-8 kHz,1.6,False,42.6
+Mu - Too Bright/mixture.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.77); nothing cancels,0.5,0.773,2-8 kHz,1.1,False,119.7
+Detsky Sad - Walkie Talkie/mixture.wav,44100,2,PASS,a mono mix loses 0.6 dB (correlation 0.75); nothing cancels,0.6,0.749,above 8 kHz,2.0,False,118.5
+Tom McKenzie - Directions/mixture.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.89); nothing cancels,0.3,0.889,2-8 kHz,0.5,False,117.3
+M.E.R.C. Music - Knockout/mixture.wav,44100,2,PASS,a mono mix loses 0.9 dB (correlation 0.62); nothing cancels,0.9,0.621,250 Hz-2 kHz,1.4,False,120.0
+Sambasevam Shanmugam - Kaathaadi/vocals.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.87); nothing cancels,0.3,0.872,250 Hz-2 kHz,0.3,False,70.6
+Moosmusic - Big Dummy Shake/drums.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.92); nothing cancels,0.2,0.919,2-8 kHz,1.1,False,99.1
+M.E.R.C. Music - Knockout/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.99); nothing cancels,0.0,0.991,20-250 Hz,0.0,False,94.6
+Sambasevam Shanmugam - Kaathaadi/mixture.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.78); nothing cancels,0.5,0.784,2-8 kHz,1.0,False,119.5
+Tom McKenzie - Directions/bass.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.90); nothing cancels,0.3,0.905,20-250 Hz,0.3,False,72.1
+Enda Reilly - Cur An Long Ag Seol/other.wav,44100,2,PASS,a mono mix loses 1.1 dB (correlation 0.55); nothing cancels,1.1,0.552,2-8 kHz,1.6,False,119.9
+Cristina Vane - So Easy/other.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.85); nothing cancels,0.3,0.85,250 Hz-2 kHz,0.4,False,120.0
+Secretariat - Over The Top/other.wav,44100,2,PASS,a mono mix loses 0.9 dB (correlation 0.64); nothing cancels,0.9,0.638,250 Hz-2 kHz,1.0,False,120.0
+PR - Oh No/mixture.wav,44100,2,PASS,a mono mix loses 0.6 dB (correlation 0.96); nothing cancels,0.6,0.956,above 8 kHz,1.0,False,66.7
+PR - Happy Daze/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 1.00); nothing cancels,0.0,0.999,20-250 Hz,0.0,False,33.1
+James Elder & Mark M Thompson - The English Actor/other.wav,44100,2,PASS,a mono mix loses 0.9 dB (correlation 0.63); nothing cancels,0.9,0.629,250 Hz-2 kHz,1.0,False,120.0
+Zeno - Signs/drums.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.86); nothing cancels,0.3,0.862,2-8 kHz,1.0,False,116.3
+Little Chicago's Finest - My Own/drums.wav,44100,2,PASS,a mono mix loses 4.2 dB (correlation -0.24); nothing cancels,4.2,-0.243,above 8 kHz,8.1,False,65.5
+Nerve 9 - Pray For The Rain/mixture.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.83); nothing cancels,0.4,0.83,2-8 kHz,0.5,False,118.0
+The Mountaineering Club - Mallory/mixture.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.81); nothing cancels,0.4,0.811,250 Hz-2 kHz,0.9,False,117.8
+Georgia Wonder - Siren/drums.wav,44100,2,PASS,a mono mix loses 0.8 dB (correlation 0.68); nothing cancels,0.8,0.681,2-8 kHz,1.2,False,67.7
+Speak Softly - Broken Man/mixture.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.92); nothing cancels,0.2,0.919,250 Hz-2 kHz,0.5,False,118.2
+Signe Jakobsen - What Have You Done To Me/mixture.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.69); nothing cancels,0.7,0.686,2-8 kHz,1.7,False,119.6
+Juliet's Rescue - Heartbeats/vocals.wav,44100,2,PASS,a mono mix loses 1.9 dB (correlation 0.30); nothing cancels,1.9,0.303,2-8 kHz,2.2,False,92.2
+Lyndsey Ollard - Catching Up/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.99); nothing cancels,0.0,0.991,20-250 Hz,0.0,False,101.2
+Carlos Gonzalez - A Place For Us/drums.wav,44100,2,PASS,a mono mix loses 0.6 dB (correlation 0.73); nothing cancels,0.6,0.727,2-8 kHz,1.2,False,94.9
+The Sunshine Garcia Band - For I Am The Moon/mixture.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.93); nothing cancels,0.2,0.926,above 8 kHz,0.3,False,120.0
+Speak Softly - Like Horses/drums.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.93); nothing cancels,0.2,0.929,above 8 kHz,0.5,False,117.6
+Bobby Nobody - Stitch Up/vocals.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.85); nothing cancels,0.3,0.853,250 Hz-2 kHz,0.4,False,87.3
+Nerve 9 - Pray For The Rain/vocals.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.90); nothing cancels,0.2,0.898,20-250 Hz,1.3,False,76.4
+Nerve 9 - Pray For The Rain/drums.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.88); nothing cancels,0.3,0.879,250 Hz-2 kHz,1.2,False,55.8
+Angels In Amplifiers - I'm Alright/other.wav,44100,2,PASS,a mono mix loses 2.0 dB (correlation 0.27); nothing cancels,2.0,0.266,20-250 Hz,3.5,False,117.3
+The Long Wait - Dark Horses/bass.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.96); nothing cancels,0.1,0.958,250 Hz-2 kHz,0.1,False,119.6
+Triviul feat. The Fiend - Widow/mixture.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.84); nothing cancels,0.4,0.84,250 Hz-2 kHz,0.6,False,119.4
+Ben Carrigan - We'll Talk About It All Tonight/bass.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,0.0,1.0,20-250 Hz,0.0,True,85.4
+Detsky Sad - Walkie Talkie/other.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.69); nothing cancels,0.7,0.695,2-8 kHz,0.7,False,102.1
+Speak Softly - Like Horses/bass.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,-0.0,1.0,20-250 Hz,-0.0,True,30.6
+Forkupines - Semantics/bass.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.89); nothing cancels,0.3,0.893,20-250 Hz,0.3,False,100.0
+The Easton Ellises - Falcon 69/other.wav,44100,2,PASS,a mono mix loses 0.8 dB (correlation 0.66); nothing cancels,0.8,0.661,2-8 kHz,1.1,False,120.0
+Buitraker - Revo X/vocals.wav,44100,2,PASS,a mono mix loses 0.6 dB (correlation 0.75); nothing cancels,0.6,0.745,2-8 kHz,0.7,False,92.4
+Al James - Schoolboy Facination/drums.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.84); nothing cancels,0.4,0.835,above 8 kHz,0.9,False,110.6
+PR - Happy Daze/mixture.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.97); nothing cancels,0.1,0.975,250 Hz-2 kHz,0.3,False,105.0
+Forkupines - Semantics/mixture.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.71); nothing cancels,0.7,0.713,250 Hz-2 kHz,1.6,False,116.2
+BKS - Too Much/vocals.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.84); nothing cancels,0.4,0.838,250 Hz-2 kHz,0.4,False,62.5
+Ben Carrigan - We'll Talk About It All Tonight/mixture.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.80); nothing cancels,0.5,0.799,2-8 kHz,1.3,False,118.8
+James Elder & Mark M Thompson - The English Actor/drums.wav,44100,2,PASS,a mono mix loses 0.8 dB (correlation 0.68); nothing cancels,0.8,0.685,250 Hz-2 kHz,1.2,False,104.5
+Moosmusic - Big Dummy Shake/other.wav,44100,2,PASS,a mono mix loses 0.6 dB (correlation 0.73); nothing cancels,0.6,0.735,2-8 kHz,0.9,False,113.8
+Secretariat - Over The Top/mixture.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.81); nothing cancels,0.4,0.813,above 8 kHz,2.6,False,120.0
+Side Effects Project - Sing With Me/vocals.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.80); nothing cancels,0.5,0.801,20-250 Hz,0.8,False,110.5
+Arise - Run Run Run/vocals.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.98); nothing cancels,0.0,0.981,20-250 Hz,0.0,False,96.2
+Moosmusic - Big Dummy Shake/vocals.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.97); nothing cancels,0.1,0.967,250 Hz-2 kHz,0.1,False,91.6
+Mu - Too Bright/other.wav,44100,2,PASS,a mono mix loses 1.2 dB (correlation 0.53); nothing cancels,1.2,0.53,250 Hz-2 kHz,1.4,False,119.2
+Girls Under Glass - We Feel Alright/drums.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.95); nothing cancels,0.1,0.95,2-8 kHz,0.3,False,111.4
+The Easton Ellises - Falcon 69/vocals.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.82); nothing cancels,0.4,0.819,2-8 kHz,0.6,False,110.4
+Speak Softly - Broken Man/other.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.80); nothing cancels,0.5,0.8,250 Hz-2 kHz,0.7,False,106.9
+Little Chicago's Finest - My Own/mixture.wav,44100,2,PASS,a mono mix loses 2.9 dB (correlation 0.03); nothing cancels,2.9,0.032,above 8 kHz,7.8,False,119.7
+Little Chicago's Finest - My Own/vocals.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.73); nothing cancels,0.7,0.732,250 Hz-2 kHz,0.7,False,112.1
+Tom McKenzie - Directions/other.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.80); nothing cancels,0.5,0.796,250 Hz-2 kHz,0.6,False,113.2
+Raft Monk - Tiring/drums.wav,44100,2,PASS,a mono mix loses 0.6 dB (correlation 0.72); nothing cancels,0.6,0.725,250 Hz-2 kHz,1.0,False,97.9
+BKS - Too Much/drums.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.72); nothing cancels,0.7,0.724,above 8 kHz,2.0,False,104.0
+Punkdisco - Oral Hygiene/other.wav,44100,2,PASS,a mono mix loses 0.8 dB (correlation 0.66); nothing cancels,0.8,0.658,2-8 kHz,1.5,False,108.3
+Side Effects Project - Sing With Me/other.wav,44100,2,PASS,a mono mix loses 1.3 dB (correlation 0.47); nothing cancels,1.3,0.472,250 Hz-2 kHz,2.0,False,118.1
+Raft Monk - Tiring/other.wav,44100,2,PASS,a mono mix loses 1.0 dB (correlation 0.60); nothing cancels,1.0,0.603,2-8 kHz,1.9,False,119.9
+Skelpolu - Resurrection/mixture.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.95); nothing cancels,0.1,0.95,2-8 kHz,0.8,False,120.0
+Lyndsey Ollard - Catching Up/vocals.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.92); nothing cancels,0.2,0.924,250 Hz-2 kHz,0.2,False,79.4
+AM Contra - Heart Peripheral/vocals.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.84); nothing cancels,0.4,0.838,above 8 kHz,1.3,False,88.9
+Lyndsey Ollard - Catching Up/drums.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.83); nothing cancels,0.4,0.835,250 Hz-2 kHz,1.0,False,81.2
+We Fell From The Sky - Not You/bass.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.97); nothing cancels,0.1,0.969,250 Hz-2 kHz,0.1,False,115.4
+Angels In Amplifiers - I'm Alright/drums.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.77); nothing cancels,0.5,0.77,2-8 kHz,2.0,False,110.8
+Cristina Vane - So Easy/bass.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.98); nothing cancels,0.1,0.975,20-250 Hz,0.1,False,119.9
+Secretariat - Borderline/drums.wav,44100,2,PASS,a mono mix loses 0.6 dB (correlation 0.73); nothing cancels,0.6,0.729,above 8 kHz,2.9,False,85.5
+Juliet's Rescue - Heartbeats/mixture.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.72); nothing cancels,0.7,0.717,2-8 kHz,1.8,False,119.7
+Little Chicago's Finest - My Own/bass.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.92); nothing cancels,0.2,0.921,20-250 Hz,0.2,False,93.4
+The Easton Ellises - Falcon 69/drums.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.98); nothing cancels,0.0,0.977,above 8 kHz,0.3,False,114.5
+Tom McKenzie - Directions/vocals.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.91); nothing cancels,0.2,0.913,250 Hz-2 kHz,0.2,False,82.0
+The Doppler Shift - Atrophy/drums.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.91); nothing cancels,0.2,0.915,2-8 kHz,1.6,False,94.0
+Zeno - Signs/mixture.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.86); nothing cancels,0.3,0.858,2-8 kHz,0.6,False,120.0
+The Sunshine Garcia Band - For I Am The Moon/drums.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.94); nothing cancels,0.1,0.944,above 8 kHz,0.4,False,117.4
+James Elder & Mark M Thompson - The English Actor/mixture.wav,44100,2,PASS,a mono mix loses 0.8 dB (correlation 0.67); nothing cancels,0.8,0.672,250 Hz-2 kHz,0.9,False,120.0
+Secretariat - Over The Top/drums.wav,44100,2,PASS,a mono mix loses 0.6 dB (correlation 0.76); nothing cancels,0.6,0.757,above 8 kHz,3.1,False,112.6
+Forkupines - Semantics/other.wav,44100,2,PASS,a mono mix loses 1.2 dB (correlation 0.51); nothing cancels,1.2,0.511,250 Hz-2 kHz,1.3,False,108.3
+The Long Wait - Dark Horses/vocals.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.89); nothing cancels,0.3,0.886,250 Hz-2 kHz,0.3,False,96.1
+Sambasevam Shanmugam - Kaathaadi/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.99); nothing cancels,0.0,0.992,250 Hz-2 kHz,0.1,False,60.0
+Al James - Schoolboy Facination/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.99); nothing cancels,0.0,0.989,250 Hz-2 kHz,0.1,False,98.8
+Louis Cressy Band - Good Time/vocals.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 1.00); nothing cancels,0.0,0.999,20-250 Hz,0.0,False,49.6
+We Fell From The Sky - Not You/drums.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.94); nothing cancels,0.1,0.94,2-8 kHz,1.0,False,92.3
+The Long Wait - Dark Horses/other.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.92); nothing cancels,0.2,0.918,2-8 kHz,0.6,False,120.0
+Angels In Amplifiers - I'm Alright/mixture.wav,44100,2,PASS,a mono mix loses 1.2 dB (correlation 0.54); nothing cancels,1.2,0.538,250 Hz-2 kHz,1.4,False,119.0
+Al James - Schoolboy Facination/mixture.wav,44100,2,PASS,a mono mix loses 0.8 dB (correlation 0.68); nothing cancels,0.8,0.678,above 8 kHz,1.2,False,119.1
+Cristina Vane - So Easy/vocals.wav,44100,2,PASS,a mono mix loses 0.6 dB (correlation 0.76); nothing cancels,0.6,0.756,250 Hz-2 kHz,0.6,False,85.2
+The Sunshine Garcia Band - For I Am The Moon/vocals.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.96); nothing cancels,0.1,0.955,20-250 Hz,0.1,False,115.9
+BKS - Bulldozer/drums.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.91); nothing cancels,0.2,0.909,2-8 kHz,2.8,False,93.0
+Triviul feat. The Fiend - Widow/other.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.74); nothing cancels,0.7,0.737,2-8 kHz,0.8,False,114.0
+PR - Oh No/vocals.wav,44100,2,PASS,a mono mix loses 1.2 dB (correlation 0.50); nothing cancels,1.2,0.501,250 Hz-2 kHz,1.4,False,17.2
+BKS - Too Much/other.wav,44100,2,PASS,a mono mix loses 2.0 dB (correlation 0.26); nothing cancels,2.0,0.264,2-8 kHz,2.1,False,116.9
+The Mountaineering Club - Mallory/vocals.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.99); nothing cancels,0.0,0.99,250 Hz-2 kHz,0.0,False,51.6
+Motor Tapes - Shore/other.wav,44100,2,PASS,a mono mix loses 1.1 dB (correlation 0.54); nothing cancels,1.1,0.544,2-8 kHz,1.3,False,120.0
+Ben Carrigan - We'll Talk About It All Tonight/vocals.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.79); nothing cancels,0.5,0.785,2-8 kHz,0.7,False,88.1
+Juliet's Rescue - Heartbeats/other.wav,44100,2,PASS,a mono mix loses 1.2 dB (correlation 0.51); nothing cancels,1.2,0.508,2-8 kHz,2.0,False,119.6
+AM Contra - Heart Peripheral/mixture.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.80); nothing cancels,0.5,0.803,above 8 kHz,1.5,False,117.9
+The Easton Ellises (Baumi) - SDRNR/other.wav,44100,2,PASS,a mono mix loses 1.8 dB (correlation 0.31); nothing cancels,1.8,0.315,2-8 kHz,2.9,False,120.0
+Timboz - Pony/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.99); nothing cancels,0.0,0.994,250 Hz-2 kHz,0.0,False,112.9
+Lyndsey Ollard - Catching Up/other.wav,44100,2,PASS,a mono mix loses 1.0 dB (correlation 0.59); nothing cancels,1.0,0.591,2-8 kHz,1.6,False,118.6
+Buitraker - Revo X/mixture.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.69); nothing cancels,0.7,0.69,2-8 kHz,3.0,False,120.0
+The Easton Ellises - Falcon 69/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.98); nothing cancels,0.0,0.984,250 Hz-2 kHz,0.2,False,109.4
+Girls Under Glass - We Feel Alright/bass.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.69); nothing cancels,0.7,0.695,20-250 Hz,0.7,False,119.8
+Skelpolu - Resurrection/other.wav,44100,2,PASS,a mono mix loses 0.8 dB (correlation 0.65); nothing cancels,0.8,0.652,20-250 Hz,0.9,False,120.0
+Angels In Amplifiers - I'm Alright/vocals.wav,44100,2,PASS,a mono mix loses 1.2 dB (correlation 0.53); nothing cancels,1.2,0.528,250 Hz-2 kHz,1.2,False,75.9
+Girls Under Glass - We Feel Alright/other.wav,44100,2,PASS,a mono mix loses 1.4 dB (correlation 0.43); nothing cancels,1.4,0.433,250 Hz-2 kHz,1.8,False,120.0
+Buitraker - Revo X/drums.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.85); nothing cancels,0.3,0.853,2-8 kHz,2.3,False,79.9
+We Fell From The Sky - Not You/vocals.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.92); nothing cancels,0.2,0.918,250 Hz-2 kHz,0.2,False,72.4
+Carlos Gonzalez - A Place For Us/bass.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,-0.0,1.0,20-250 Hz,-0.0,True,74.4
+Louis Cressy Band - Good Time/drums.wav,44100,2,PASS,a mono mix loses 1.2 dB (correlation 0.50); nothing cancels,1.2,0.503,2-8 kHz,1.8,False,102.5
+Moosmusic - Big Dummy Shake/mixture.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.90); nothing cancels,0.2,0.899,above 8 kHz,0.9,False,119.4
+James Elder & Mark M Thompson - The English Actor/vocals.wav,44100,2,PASS,a mono mix loses 0.8 dB (correlation 0.68); nothing cancels,0.8,0.682,20-250 Hz,1.0,False,93.8
+Hollow Ground - Ill Fate/mixture.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.87); nothing cancels,0.3,0.869,2-8 kHz,0.4,False,118.6
+The Long Wait - Dark Horses/drums.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.93); nothing cancels,0.1,0.933,above 8 kHz,1.2,False,79.6
+Speak Softly - Broken Man/bass.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,-0.0,1.0,20-250 Hz,-0.0,True,21.9
+Moosmusic - Big Dummy Shake/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.99); nothing cancels,0.0,0.988,20-250 Hz,0.0,False,110.5
+The Doppler Shift - Atrophy/other.wav,44100,2,PASS,a mono mix loses 1.2 dB (correlation 0.51); nothing cancels,1.2,0.509,250 Hz-2 kHz,2.0,False,120.0
+Zeno - Signs/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.99); nothing cancels,0.0,0.99,20-250 Hz,0.0,False,120.0
+Tom McKenzie - Directions/drums.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.93); nothing cancels,0.2,0.933,250 Hz-2 kHz,0.5,False,79.4
+Enda Reilly - Cur An Long Ag Seol/bass.wav,44100,2,PASS,both channels are identical (mono stored as stereo); the mono mix loses nothing,0.0,1.0,250 Hz-2 kHz,0.0,True,112.6
+Georgia Wonder - Siren/bass.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.77); nothing cancels,0.5,0.772,250 Hz-2 kHz,1.2,False,67.9
+Louis Cressy Band - Good Time/bass.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.82); nothing cancels,0.4,0.822,250 Hz-2 kHz,0.5,False,97.0
+Speak Softly - Broken Man/vocals.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.93); nothing cancels,0.1,0.932,250 Hz-2 kHz,0.2,False,102.1
+Al James - Schoolboy Facination/vocals.wav,44100,2,PASS,a mono mix loses 0.6 dB (correlation 0.75); nothing cancels,0.6,0.755,250 Hz-2 kHz,0.6,False,105.0
+Bobby Nobody - Stitch Up/other.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.93); nothing cancels,0.2,0.93,2-8 kHz,0.3,False,117.4
+Ben Carrigan - We'll Talk About It All Tonight/other.wav,44100,2,PASS,a mono mix loses 1.2 dB (correlation 0.53); nothing cancels,1.2,0.533,2-8 kHz,2.2,False,119.7
+BKS - Bulldozer/mixture.wav,44100,2,PASS,a mono mix loses 0.9 dB (correlation 0.62); nothing cancels,0.9,0.624,250 Hz-2 kHz,2.1,False,118.5
+Arise - Run Run Run/mixture.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.89); nothing cancels,0.3,0.888,20-250 Hz,0.3,False,119.3
+Motor Tapes - Shore/drums.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.77); nothing cancels,0.5,0.771,above 8 kHz,2.4,False,68.2
+The Doppler Shift - Atrophy/mixture.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.70); nothing cancels,0.7,0.7,250 Hz-2 kHz,2.0,False,120.0
+Al James - Schoolboy Facination/other.wav,44100,2,PASS,a mono mix loses 3.0 dB (correlation -0.00); nothing cancels,3.0,-0.004,2-8 kHz,5.0,False,110.5
+Punkdisco - Oral Hygiene/drums.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.99); nothing cancels,0.0,0.992,above 8 kHz,0.3,False,59.0
+Signe Jakobsen - What Have You Done To Me/vocals.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.83); nothing cancels,0.4,0.832,250 Hz-2 kHz,0.4,False,106.6
+Carlos Gonzalez - A Place For Us/mixture.wav,44100,2,PASS,a mono mix loses 0.9 dB (correlation 0.62); nothing cancels,0.9,0.616,250 Hz-2 kHz,1.1,False,119.9
+Secretariat - Borderline/vocals.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.81); nothing cancels,0.4,0.808,20-250 Hz,0.6,False,44.5
+Signe Jakobsen - What Have You Done To Me/drums.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.85); nothing cancels,0.3,0.85,above 8 kHz,1.1,False,110.5
+Punkdisco - Oral Hygiene/mixture.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.96); nothing cancels,0.1,0.964,2-8 kHz,0.5,False,112.2
+Side Effects Project - Sing With Me/bass.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.94); nothing cancels,0.1,0.945,20-250 Hz,0.1,False,71.1
+Zeno - Signs/other.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.80); nothing cancels,0.5,0.797,2-8 kHz,0.5,False,120.0
+Raft Monk - Tiring/mixture.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.72); nothing cancels,0.7,0.722,2-8 kHz,2.0,False,119.1
+Side Effects Project - Sing With Me/mixture.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.86); nothing cancels,0.3,0.863,above 8 kHz,0.9,False,119.1
+The Doppler Shift - Atrophy/vocals.wav,44100,2,PASS,a mono mix loses 1.9 dB (correlation 0.31); nothing cancels,1.9,0.305,2-8 kHz,2.5,False,67.0
+Georgia Wonder - Siren/other.wav,44100,2,PASS,a mono mix loses 1.3 dB (correlation 0.47); nothing cancels,1.3,0.474,20-250 Hz,1.4,False,120.0
+Raft Monk - Tiring/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.98); nothing cancels,0.0,0.978,20-250 Hz,0.0,False,105.3
+Secretariat - Borderline/mixture.wav,44100,2,PASS,a mono mix loses 0.6 dB (correlation 0.75); nothing cancels,0.6,0.75,2-8 kHz,1.1,False,119.8
+The Mountaineering Club - Mallory/other.wav,44100,2,PASS,a mono mix loses 1.9 dB (correlation 0.29); nothing cancels,1.9,0.291,20-250 Hz,2.4,False,113.5
+The Easton Ellises (Baumi) - SDRNR/mixture.wav,44100,2,PASS,a mono mix loses 0.8 dB (correlation 0.66); nothing cancels,0.8,0.664,above 8 kHz,2.1,False,119.7
+PR - Happy Daze/other.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.96); nothing cancels,0.1,0.963,250 Hz-2 kHz,0.1,False,59.1
+Speak Softly - Like Horses/mixture.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.96); nothing cancels,0.1,0.956,2-8 kHz,0.2,False,120.0
+The Doppler Shift - Atrophy/bass.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.93); nothing cancels,0.2,0.925,20-250 Hz,0.2,False,103.5
+Ben Carrigan - We'll Talk About It All Tonight/drums.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.93); nothing cancels,0.2,0.931,2-8 kHz,0.8,False,64.6
+Georgia Wonder - Siren/vocals.wav,44100,2,PASS,a mono mix loses 1.1 dB (correlation 0.55); nothing cancels,1.1,0.548,250 Hz-2 kHz,1.3,False,88.3
+The Easton Ellises (Baumi) - SDRNR/drums.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.83); nothing cancels,0.4,0.83,above 8 kHz,2.2,False,71.1
+Triviul feat. The Fiend - Widow/drums.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.93); nothing cancels,0.1,0.934,250 Hz-2 kHz,0.3,False,96.9
+BKS - Too Much/mixture.wav,44100,2,PASS,a mono mix loses 0.6 dB (correlation 0.73); nothing cancels,0.6,0.731,above 8 kHz,1.8,False,119.7
+Mu - Too Bright/bass.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.96); nothing cancels,0.1,0.961,250 Hz-2 kHz,0.1,False,27.2
+We Fell From The Sky - Not You/mixture.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.78); nothing cancels,0.5,0.785,2-8 kHz,0.9,False,120.0
+Hollow Ground - Ill Fate/drums.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.86); nothing cancels,0.4,0.86,20-250 Hz,0.4,False,108.1
+BKS - Bulldozer/bass.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.87); nothing cancels,0.3,0.874,250 Hz-2 kHz,0.3,False,100.2
+Timboz - Pony/drums.wav,44100,2,PASS,a mono mix loses 0.9 dB (correlation 0.63); nothing cancels,0.9,0.629,above 8 kHz,3.0,False,112.2
+M.E.R.C. Music - Knockout/vocals.wav,44100,2,PASS,a mono mix loses 1.4 dB (correlation 0.44); nothing cancels,1.4,0.437,250 Hz-2 kHz,1.6,False,109.5
+PR - Happy Daze/vocals.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.86); nothing cancels,0.3,0.86,2-8 kHz,0.6,False,21.3
+Bobby Nobody - Stitch Up/drums.wav,44100,2,PASS,a mono mix loses 0.5 dB (correlation 0.77); nothing cancels,0.5,0.775,above 8 kHz,2.5,False,75.2
+Enda Reilly - Cur An Long Ag Seol/drums.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.96); nothing cancels,0.1,0.961,2-8 kHz,4.8,False,51.2
+Detsky Sad - Walkie Talkie/drums.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.72); nothing cancels,0.7,0.715,above 8 kHz,2.3,False,111.8
+Punkdisco - Oral Hygiene/bass.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 1.00); nothing cancels,0.0,0.997,250 Hz-2 kHz,0.0,False,102.7
+Carlos Gonzalez - A Place For Us/other.wav,44100,2,PASS,a mono mix loses 1.6 dB (correlation 0.39); nothing cancels,1.6,0.391,250 Hz-2 kHz,1.7,False,120.0
+Arise - Run Run Run/drums.wav,44100,2,PASS,a mono mix loses 0.6 dB (correlation 0.76); nothing cancels,0.6,0.759,above 8 kHz,1.7,False,54.3
+The Sunshine Garcia Band - For I Am The Moon/bass.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.88); nothing cancels,0.3,0.877,250 Hz-2 kHz,0.5,False,105.9
+Hollow Ground - Ill Fate/other.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.85); nothing cancels,0.3,0.853,2-8 kHz,0.5,False,117.9
+Enda Reilly - Cur An Long Ag Seol/mixture.wav,44100,2,PASS,a mono mix loses 0.3 dB (correlation 0.88); nothing cancels,0.3,0.875,2-8 kHz,1.1,False,120.0
+James Elder & Mark M Thompson - The English Actor/bass.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.82); nothing cancels,0.4,0.819,20-250 Hz,0.4,False,90.3
+Mu - Too Bright/drums.wav,44100,2,PASS,a mono mix loses 0.4 dB (correlation 0.84); nothing cancels,0.4,0.841,2-8 kHz,1.8,False,63.1
+The Sunshine Garcia Band - For I Am The Moon/other.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.96); nothing cancels,0.1,0.958,250 Hz-2 kHz,0.1,False,81.7
+AM Contra - Heart Peripheral/bass.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.96); nothing cancels,0.1,0.961,250 Hz-2 kHz,5.0,False,64.4
+Secretariat - Borderline/bass.wav,44100,2,PASS,a mono mix loses 0.2 dB (correlation 0.92); nothing cancels,0.2,0.922,250 Hz-2 kHz,0.2,False,114.7
+Side Effects Project - Sing With Me/drums.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.93); nothing cancels,0.1,0.934,above 8 kHz,1.7,False,78.2
+Skelpolu - Resurrection/drums.wav,44100,2,PASS,a mono mix loses 0.0 dB (correlation 0.98); nothing cancels,0.0,0.98,above 8 kHz,0.5,False,77.1
+Louis Cressy Band - Good Time/mixture.wav,44100,2,PASS,a mono mix loses 1.3 dB (correlation 0.48); nothing cancels,1.3,0.483,250 Hz-2 kHz,1.7,False,117.9
+Skelpolu - Resurrection/vocals.wav,44100,2,REVIEW,"too short, silent or too few loud parts to measure",,,,,False,0.0
+BKS - Bulldozer/other.wav,44100,2,PASS,a mono mix loses 1.3 dB (correlation 0.49); nothing cancels,1.3,0.49,20-250 Hz,1.8,False,111.4
+AM Contra - Heart Peripheral/other.wav,44100,2,PASS,a mono mix loses 0.7 dB (correlation 0.71); nothing cancels,0.7,0.714,250 Hz-2 kHz,1.0,False,116.1
+PR - Oh No/bass.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.97); nothing cancels,0.1,0.968,250 Hz-2 kHz,0.1,False,51.4
+Arise - Run Run Run/bass.wav,44100,2,PASS,a mono mix loses 0.1 dB (correlation 0.97); nothing cancels,0.1,0.969,20-250 Hz,0.1,False,110.3
+We Fell From The Sky - Not You/other.wav,44100,2,PASS,a mono mix loses 1.1 dB (correlation 0.57); nothing cancels,1.1,0.569,2-8 kHz,1.1,False,119.7
+Nerve 9 - Pray For The Rain/other.wav,44100,2,PASS,a mono mix loses 0.6 dB (correlation 0.74); nothing cancels,0.6,0.737,2-8 kHz,1.1,False,119.5
+M.E.R.C. Music - Knockout/other.wav,44100,2,PASS,a mono mix loses 1.0 dB (correlation 0.60); nothing cancels,1.0,0.601,250 Hz-2 kHz,1.2,False,120.0
