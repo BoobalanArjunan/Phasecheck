@@ -339,7 +339,7 @@ def test_cli_parallel_jobs_same_result(tmp_path, capsys):
 def test_cli_version(capsys):
     with pytest.raises(SystemExit):
         main(["--version"])
-    assert "phasecheck 0.1.0a1" in capsys.readouterr().out
+    assert "phasecheck 0.1.0" in capsys.readouterr().out
 
 
 # ---------------------------------------------------------------- the limits themselves (judge on a hand-made measurement)

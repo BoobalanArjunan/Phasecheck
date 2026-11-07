@@ -1,9 +1,9 @@
-# phasecheck (alpha)
+# phasecheck
 
 Finds stereo files that lose level or sound thin when played in mono, usually because one channel is polarity-inverted
 or partly out of phase with the other.
 
-> **Status: 0.1.0a1 alpha.** Checked on real stereo music (MUSDB18-HQ) with planted problems and untouched originals; results below.
+> **Status: 0.1.0.** Checked on real stereo music (MUSDB18-HQ) with planted problems and untouched originals; results below.
 > The thresholds (6 dB and 10 dB) were set on generated audio and are unchanged. They are provisional.
 
 ```bash
