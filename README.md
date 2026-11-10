@@ -7,7 +7,7 @@ or partly out of phase with the other.
 > The thresholds (6 dB and 10 dB) were set on generated audio and are unchanged. They are provisional.
 
 ```bash
-pip install -e ".[dev]"
+pip install phasecheck              # or editable: pip install -e ".[dev]"
 phasecheck check my_songs/ --out report.csv
 phasecheck check song.wav --json
 ```
@@ -70,4 +70,6 @@ The planted copies are made by one method; real polarity mistakes may differ. On
 `pytest -q` (57 tests). The checker itself was also tested by planting 21 deliberate bugs in the code and confirming
 the tests catch them (the two that survived the first round now have their own tests).
 
-MIT licence.
+## License
+
+MIT. Copyright (c) 2026 Boobalan Arjunan.
